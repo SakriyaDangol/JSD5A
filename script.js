@@ -9,4 +9,4 @@ function getGrade(score) {
     }
   }
   
-  console.log(getGrade(26));
+document.write(getGrade(26));
